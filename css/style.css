@@ -1,22 +1,44 @@
 header {
   text-align: center;
   color: darkgrey; 
+  background-color: #F1F1F1;
+  padding: 20px;
 }
 .column {
-  width: 300px;
+  width: 33%;
+  padding: 4px;
   float: left;
+  margin: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: bisque;
+}
+
+.column2 {
+  width: 33%;
+  padding: 4px;
+  float: center;
+  margin: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: plum;
+}
+
+.column3 {
+  width: 33%;
   padding: 4px;
   margin: 12px;
-  font-family: Arial, Helvetica, sans-serif
+  font-family: Arial, Helvetica, sans-serif;
+  float: left;
+  background-color: aquamarine;
 }
 
 .about-me {
-  width: 30%;
+  width: 25%;
   float: right;
   background-color: peachpuff;
   padding: 6px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
 }
+
 
 img {
   float: left;
@@ -28,4 +50,17 @@ img {
 h3 {
   color: cadetblue;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.blog-posts {
+  margin: 12px;
+  padding: 10px;
+  width: 66%;
+  float: left;
+  text-align: justify;
+  border: 2px solid grey;
+}
+
+.blog-posts p {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
