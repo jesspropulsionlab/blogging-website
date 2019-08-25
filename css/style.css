@@ -7,7 +7,7 @@ header {
 }
 .column {
   float: left;
-  width: 31.5%;
+  width: 30%;
   margin: 8px;
   height: auto;
   padding: 6px;
@@ -17,7 +17,7 @@ header {
 
 .column2 {
   float: left;
-  width: 31.5%;
+  width: 30%;
   margin: 8px;
   height: auto;
   padding: 6px;
@@ -27,7 +27,7 @@ header {
 
 .column3 {
   float: left;
-  width: 31.5%;
+  width: 30%;
   margin: 8px;
   height: auto;
   padding: 6px;
@@ -37,7 +37,7 @@ header {
 
 .landing {
   width: auto;
-  height: 60%;
+  height: 550%;
   background-color: peru;
   margin: 12px;
   overflow: hidden;
@@ -56,7 +56,7 @@ header {
 
 img {
   float: left;
-  height: 440px;
+  height: 380px;
   width: auto;
   margin-left: 12px;
   margin-top: 30px;
@@ -71,7 +71,7 @@ h3 {
   margin: 0 auto;
   margin-top: 12px;
   padding: 10px;
-  width: 64%;
+  width: 60%;
   float: center;
   text-align: justify;
   border: 2px solid grey;
